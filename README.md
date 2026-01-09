@@ -1,4 +1,4 @@
-Hi, I’m Marvelous Otis 👋  
+**Hi, I’m Marvelous Otis**👋 
 
 I am a Data Analyst specializing in Excel, SQL, Power BI, and Tableau, focused on turning raw data into clear, actionable insights that support data-driven decisions.
 
