@@ -6,9 +6,11 @@ I am a Data Analyst specializing in Excel, SQL, Power BI, and Tableau, focused o
 Data analysis • Data cleaning • Dashboard design • Data visualization  
 
 **Featured Work:**  
-📊 Sales Orders Performance Dashboard  
-☕ Coffee Sales Orders Dashboard  
-🚦 Road Accident & Casualties Dashboard  
+Sales Orders Performance Dashboard  
+Credit Risk Analysis Dashboard
+Smoking Health Risk Analysis
+Adidas Sales Analysis
+Road Accident & Casualties Dashboard  
 
 ➡️ Explore my pinned repositories for project details and datasets.
 
